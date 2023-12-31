@@ -333,3 +333,5 @@ ASALocalRun/
 
 target
 .project
+.classpath
+.settings/
